@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task_1 {
+public class task {
 
     static void udalChet(List<Integer> arrList) {
         for (int i=0; i < arrList.size()-1; i++) {
